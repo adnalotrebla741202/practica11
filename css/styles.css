@@ -1,0 +1,19 @@
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: #000;
+}
+
+.carousel-control-prev-icon:after 
+{
+  content: '<';
+  font-size: 55px;
+  color: #000;
+}
+
+footer a img:hover
+{
+    transition: all 350ms ease-out;
+    transform: scale(1.2);
+}
